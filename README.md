@@ -11,16 +11,17 @@
 <!-- <a target="_blank" href="https://fb.com/aryxb">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a> -->
-</br>
+<br/>
 ------------------------------------------------------------
-Hi, I'm Nagendra Singh. I am a Full Stack Web Developer from India. I'm 22 years old.  <br/>A fitness maniac :muscle::skin-tone-3: ||  A good video-game player :video_game: ||  Ronaldo fan :soccer:.
+<br/>
+Hi, I'm Shrthi B S Singh. I am a Full Stack Web Developer from India. I'm 22 years old.  <br/>
 - :telescope: I’m currently working on unacademy.com clone
 - :seedling: I’m currently learning React JS
 - :dancers: I’m looking to collaborate on applications from where I can get to learn something new
 - :mailbox: Mail me  shruthibss1997@gmail.com
 - :memo: Wanna read my blogs  https://medium.com/@shruthibss1997
   <br/>
-![shruthi GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagendrax02&show_icons=true)
+<!-- ![shruthi GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagendrax02&show_icons=true) -->
 <h4>Languages and Tools</h4>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> &nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> &nbsp;
