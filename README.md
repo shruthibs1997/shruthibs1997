@@ -15,10 +15,10 @@
 ------------------------------------------------------------
 <br/>
 Hi, I'm Shrthi B S. I am a Full Stack Web Developer from India. I'm 24 years old.  <br/>
-- :telescope: I’m currently working on unacademy.com clone
-- :seedling: I’m currently learning React JS
-- :dancers: I’m looking to collaborate on applications from where I can get to learn something new
-- :mailbox: Mail me  shruthibss1997@gmail.com
+- :telescope: I’m currently working on unacademy.com clone  <br/>
+- :seedling: I’m currently learning React JS  <br/>
+- :dancers: I’m looking to collaborate on applications from where I can get to learn something new  <br/>
+- :mailbox: Mail me  shruthibss1997@gmail.com  <br/>
 - :memo: Wanna read my blogs  https://medium.com/@shruthibss1997
   <br/>
 <!-- ![shruthi GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagendrax02&show_icons=true) -->
