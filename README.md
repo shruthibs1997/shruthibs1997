@@ -14,7 +14,7 @@
 <br/>
 ------------------------------------------------------------
 <br/>
-Hi, I'm Shrthi B S Singh. I am a Full Stack Web Developer from India. I'm 22 years old.  <br/>
+Hi, I'm Shrthi B S. I am a Full Stack Web Developer from India. I'm 24 years old.  <br/>
 - :telescope: I’m currently working on unacademy.com clone
 - :seedling: I’m currently learning React JS
 - :dancers: I’m looking to collaborate on applications from where I can get to learn something new
