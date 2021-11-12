@@ -1,12 +1,12 @@
 <h4> :wave: Hello World I'm Shruthi B S </h4>
   <a target="_blank" href="https://www.linkedin.com/in/shruthi-b-s-665065216">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <!-- <a target="_blank" href="https://www.instagram.com/nagendrax02/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> -->
 <a target="_blank" href="mailto:shruthibss1997@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://i.pinimg.com/originals/2f/0c/4f/2f0c4fe5085b7d8e1bae8d8f335ba8e9.png" />
 </a>
 <!-- <a target="_blank" href="https://fb.com/aryxb">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
